@@ -202,7 +202,7 @@ namespace PetClient
                     {
                         smtp.Host = "smtp.gmail.com";
                         smtp.UseDefaultCredentials = false;
-                        smtp.Credentials = new System.Net.NetworkCredential("botbillnutripets@gmail.com", "BotBillNutriPets123");
+                        smtp.Credentials = new System.Net.NetworkCredential("botbillnutripets@gmail.com", "Senha");
                         smtp.Port = 587;
                         smtp.EnableSsl = true;
 
